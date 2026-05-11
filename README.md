@@ -23,8 +23,8 @@
 ## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-pi-gold-89.vercel.app/api?username=ZJunCher&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats-pi-gold-89.vercel.app/api/top-langs/?username=ZJunCher&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-dusky-ten-34.vercel.app/api?username=ZJunCher&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats-dusky-ten-34.vercel.app/api/top-langs/?username=ZJunCher&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">
