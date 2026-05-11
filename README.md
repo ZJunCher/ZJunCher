@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm ZJun 👋</h1>
 
-<!--
-**ZJunCher/ZJunCher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Graduate Student at Nanjing University of Aeronautics and Astronautics
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Java Backend Development · AI Applications · RAG Systems
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/ZJunCher">
+    <img src="https://img.shields.io/badge/GitHub-ZJunCher-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://clawhub.ai/p/zjuncher">
+    <img src="https://img.shields.io/badge/ClawHub-zjuncher-orange?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Java%20Backend%20%7C%20AI%20Apps%20%7C%20RAG%20Systems-blue?style=for-the-badge" />
+</p>
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats-pi-gold-89.vercel.app/api?username=ZJunCher&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats-pi-gold-89.vercel.app/api/top-langs/?username=ZJunCher&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ZJunCher&theme=transparent&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ZJunCher&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10"
+  />
+</p>
