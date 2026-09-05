@@ -33,3 +33,9 @@
     height="165"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy-zjuncher.vercel.app/?username=ZJunCher&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=20260905"
+  />
+</p>
